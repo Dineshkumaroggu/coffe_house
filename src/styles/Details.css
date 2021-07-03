@@ -1,0 +1,102 @@
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  width: 50px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.details {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.details img {
+  width: 500px;
+  height: 550px;
+  object-fit: cover;
+}
+
+.details__info {
+  padding: 20px 45px;
+  width: 500px;
+}
+
+.details__info span {
+  font-size: 1.4rem;
+}
+
+.details__quantity {
+  padding-top: 10px;
+}
+
+.details__quantity label {
+  padding-right: 10px;
+}
+
+.details__quantity button {
+  cursor: pointer;
+  font-size: 1.3rem;
+  color: white;
+  background-color: var(--grey);
+  height: 40px;
+  width: 40px;
+  border: 0;
+  border-radius: 50%;
+}
+
+.details__btns {
+  padding-top: 20px;
+}
+
+.details__btns a {
+  text-decoration: none;
+  color: white;
+  padding: 15px 30px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: var(--dark-brown);
+}
+
+.details__btns button {
+  padding: 15px 20px;
+  border: 0;
+  border-radius: 10px;
+  font-size: inherit;
+  cursor: pointer;
+  color: white;
+  background-color: var(--grey);
+}
+
+.error {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .details img {
+    width: 350px;
+    height: 450px;
+    object-fit: cover;
+  }
+
+  .details__info {
+    width: 350px;
+    padding: 40px 0 0 0;
+    text-align: center;
+  }
+}

@@ -1,0 +1,33 @@
+.footer {
+  padding: 30px 30px 20px 30px;
+  background-color: var(--black);
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.footer__icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 30px;
+}
+
+.footer__icon {
+  transition: 100ms linear;
+  cursor: pointer;
+}
+
+.footer__icon:hover {
+  transform: translateY(-7px);
+}
+
+@media screen and (max-width: 768px) {
+  .footer span {
+    font-size: 1.5rem;
+  }
+}

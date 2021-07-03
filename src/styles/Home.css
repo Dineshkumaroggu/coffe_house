@@ -1,0 +1,46 @@
+.home {
+  min-height: 100vh;
+  background-image: url(/src/assets/Hero.png);
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home__title {
+  color: white;
+  text-align: center;
+  font-size: 2.7rem;
+  max-width: 600px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.home__title h1 {
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.home__cta-btn {
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  background-color: var(--dark-brown);
+  padding: 1rem 2rem;
+  font-size: 1.8rem;
+  cursor: pointer;
+  transition: 250ms ease;
+}
+
+.home__cta-btn:hover {
+  background-color: var(--brown);
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    height: 80vh;
+  }
+  .home__title {
+    font-size: 1.5rem;
+  }
+}
