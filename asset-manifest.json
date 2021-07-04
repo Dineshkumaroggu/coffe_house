@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dineshkumaroggu/coffe_house/static/css/main.58701b1c.chunk.css",
+    "main.js": "/Dineshkumaroggu/coffe_house/static/js/main.f8e56afd.chunk.js",
+    "main.js.map": "/Dineshkumaroggu/coffe_house/static/js/main.f8e56afd.chunk.js.map",
+    "runtime-main.js": "/Dineshkumaroggu/coffe_house/static/js/runtime-main.cc839a95.js",
+    "runtime-main.js.map": "/Dineshkumaroggu/coffe_house/static/js/runtime-main.cc839a95.js.map",
+    "static/js/2.f14a3373.chunk.js": "/Dineshkumaroggu/coffe_house/static/js/2.f14a3373.chunk.js",
+    "static/js/2.f14a3373.chunk.js.map": "/Dineshkumaroggu/coffe_house/static/js/2.f14a3373.chunk.js.map",
+    "index.html": "/Dineshkumaroggu/coffe_house/index.html",
+    "static/css/main.58701b1c.chunk.css.map": "/Dineshkumaroggu/coffe_house/static/css/main.58701b1c.chunk.css.map",
+    "static/js/2.f14a3373.chunk.js.LICENSE.txt": "/Dineshkumaroggu/coffe_house/static/js/2.f14a3373.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Dineshkumaroggu/coffe_house/static/media/Hero.0f18ee8b.png",
+    "static/media/counter-culture-coffee-big-trouble-whole-bean-coffee.06ee741f.jpg": "/Dineshkumaroggu/coffe_house/static/media/counter-culture-coffee-big-trouble-whole-bean-coffee.06ee741f.jpg",
+    "static/media/death-wish-coffee-co-whole-bean-coffee.fa4f2dcf.jpg": "/Dineshkumaroggu/coffe_house/static/media/death-wish-coffee-co-whole-bean-coffee.fa4f2dcf.jpg",
+    "static/media/dope-coffee-organic-guatemalan-coffee-beans.9791a115.jpg": "/Dineshkumaroggu/coffe_house/static/media/dope-coffee-organic-guatemalan-coffee-beans.9791a115.jpg",
+    "static/media/equal-exchange-organic-whole-bean-coffee.a9e41aad.jpg": "/Dineshkumaroggu/coffe_house/static/media/equal-exchange-organic-whole-bean-coffee.a9e41aad.jpg",
+    "static/media/grounds-&-hounds-three-blend-starter-kit.98af07db.jpg": "/Dineshkumaroggu/coffe_house/static/media/grounds-&-hounds-three-blend-starter-kit.98af07db.jpg",
+    "static/media/la-colombe-corsica-blend.3cf1ac76.jpg": "/Dineshkumaroggu/coffe_house/static/media/la-colombe-corsica-blend.3cf1ac76.jpg",
+    "static/media/lavazza-super-crema-coffee-blend.5c3f6700.jpg": "/Dineshkumaroggu/coffe_house/static/media/lavazza-super-crema-coffee-blend.5c3f6700.jpg",
+    "static/media/peets-coffee-big-bang-medium-roast.4aa99777.jpg": "/Dineshkumaroggu/coffe_house/static/media/peets-coffee-big-bang-medium-roast.4aa99777.jpg",
+    "static/media/stumptown-coffee-roasters-hair-blender-whole-bean-coffee.453e9e01.jpg": "/Dineshkumaroggu/coffe_house/static/media/stumptown-coffee-roasters-hair-blender-whole-bean-coffee.453e9e01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc839a95.js",
+    "static/js/2.f14a3373.chunk.js",
+    "static/css/main.58701b1c.chunk.css",
+    "static/js/main.f8e56afd.chunk.js"
+  ]
+}
